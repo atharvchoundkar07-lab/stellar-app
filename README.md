@@ -16,4 +16,4 @@ A solar system and galaxy information app.
 (Add screenshots later)
 
 ## 👨‍💻 Author
-Atharv
+Choundkar Atharv
